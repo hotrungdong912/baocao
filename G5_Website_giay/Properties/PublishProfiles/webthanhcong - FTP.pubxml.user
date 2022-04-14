@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4+bk46ptoU2beCLYIVf+rgAAAAACAAAAAAAQZgAAAAEAACAAAAArheR05wlQ9f5Xs+y+cCkPvdQqDGpiB4i25KRauqnK3wAAAAAOgAAAAAIAACAAAADubJm+YNfR1UCNExvbRu2+KaYKblyhjOjNDacYzJ0pPIAAAABAVw8aRpHf0+/myRjlaLOfmGErIHjUt1fNI0nx+juuwWKm8aCSpHo8QW1vDyobmOFQWir2cpbfXEmzKW7tivmNQ1ls0YfRrusnu8/RGEXvSEGfcRtiU5XMJVQ9w2H6gnpmYmVxWUr3fXWk6fZBOZlrwI6HAlS8vwa/TJ6QTCUAEUAAAAAnu5Q/C9xnXUPFh6OwoZ4ASeFb3A+jPYGBbhcfbKrrxGF2hku1XIegMj3nLRCAprrqs5M19QAu6UpStXxCFPcg</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-dm1-241.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/Admin/Views/AdminHome/Index.cshtml">
+      <publishTime>07/24/2021 14:36:09</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/AdminLogin/Index.cshtml">
+      <publishTime>07/25/2021 16:54:02</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/BrandProduct/Create.cshtml">
+      <publishTime>07/24/2021 16:36:06</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/BrandProduct/Delete.cshtml">
+      <publishTime>07/24/2021 15:54:28</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/BrandProduct/Details.cshtml">
+      <publishTime>07/24/2021 15:54:47</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/BrandProduct/Edit.cshtml">
+      <publishTime>07/24/2021 15:55:09</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/BrandProduct/Index.cshtml">
+      <publishTime>07/24/2021 15:47:47</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Customer/Create.cshtml">
+      <publishTime>07/24/2021 16:38:54</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Customer/Delete.cshtml">
+      <publishTime>07/24/2021 16:32:13</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Customer/Details.cshtml">
+      <publishTime>07/24/2021 16:31:38</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Customer/Edit.cshtml">
+      <publishTime>07/24/2021 16:29:34</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Customer/Index.cshtml">
+      <publishTime>07/24/2021 16:38:27</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Nation/Create.cshtml">
+      <publishTime>07/24/2021 16:03:15</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Nation/Delete.cshtml">
+      <publishTime>07/24/2021 16:01:18</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Nation/Details.cshtml">
+      <publishTime>07/24/2021 16:01:28</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Nation/Edit.cshtml">
+      <publishTime>07/24/2021 16:01:51</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Nation/Index.cshtml">
+      <publishTime>07/24/2021 16:36:59</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Order/Details.cshtml">
+      <publishTime>07/24/2021 16:09:13</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Order/Edit.cshtml">
+      <publishTime>07/24/2021 16:06:19</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Order/Index.cshtml">
+      <publishTime>07/24/2021 16:04:59</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Product/Create.cshtml">
+      <publishTime>07/24/2021 16:35:01</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Product/Delete.cshtml">
+      <publishTime>07/24/2021 15:53:18</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Product/Details.cshtml">
+      <publishTime>07/25/2021 17:03:08</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Product/Edit.cshtml">
+      <publishTime>07/25/2021 17:02:26</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Product/Index.cshtml">
+      <publishTime>07/24/2021 15:43:11</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Shared/_Layout -adminlogin.cshtml">
+      <publishTime>07/25/2021 16:49:03</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Shared/_Layout.cshtml">
+      <publishTime>07/24/2021 15:58:27</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Staff/Create.cshtml">
+      <publishTime>07/25/2021 16:59:52</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Staff/Delete.cshtml">
+      <publishTime>07/24/2021 16:20:35</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Staff/Details.cshtml">
+      <publishTime>07/24/2021 16:16:53</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Staff/Edit.cshtml">
+      <publishTime>07/25/2021 17:11:50</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Staff/Index.cshtml">
+      <publishTime>07/25/2021 17:06:51</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/TypeProduct/Create.cshtml">
+      <publishTime>07/24/2021 16:41:56</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/TypeProduct/Delete.cshtml">
+      <publishTime>07/24/2021 16:41:39</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/TypeProduct/Details.cshtml">
+      <publishTime>07/24/2021 16:41:28</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/TypeProduct/Edit.cshtml">
+      <publishTime>07/24/2021 16:41:22</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/TypeProduct/Index.cshtml">
+      <publishTime>07/24/2021 16:42:25</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/web.config">
+      <publishTime>07/07/2021 12:58:59</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/23/2017 13:15:18</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>10/23/2017 13:15:20</publishTime>
+    </File>
+    <File Include="bin/G5_Website_giay.dll">
+      <publishTime>04/14/2022 03:16:46</publishTime>
+    </File>
+    <File Include="bin/G5_Website_giay.pdb">
+      <publishTime>04/14/2022 03:16:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="bin/PagedList.dll">
+      <publishTime>09/30/2013 17:36:38</publishTime>
+    </File>
+    <File Include="bin/PagedList.Mvc.dll">
+      <publishTime>09/30/2013 18:15:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>11/28/2018 13:04:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>11/28/2018 12:59:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 15:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>11/28/2018 13:00:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>11/28/2018 13:04:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>11/28/2018 13:04:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>11/28/2018 13:04:24</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>01/23/2014 13:57:34</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>06/16/2021 12:45:13</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/16/2021 12:45:13</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/14/2022 03:43:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
